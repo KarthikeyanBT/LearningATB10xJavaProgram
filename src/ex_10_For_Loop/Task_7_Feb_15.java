@@ -2,7 +2,7 @@ package ex_10_For_Loop;
 
 public class Task_7_Feb_15 {
     public static void main(String[] args) {
-        // inverted Pyramid patten
+        // inverted Pyramid patten updated one
         //*******
         // *****
         //  ***
